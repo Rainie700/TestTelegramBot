@@ -9,3 +9,6 @@ pip install ChatterBot
 pip install Telethon
 
 pip install chatterbot
+
+
+pip install git+git://github.com/gunthercox/ChatterBot.git@master
