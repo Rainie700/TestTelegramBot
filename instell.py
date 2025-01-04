@@ -7,3 +7,5 @@ source venv/bin/activate
 
 pip install ChatterBot
 pip install Telethon
+
+pip install chatterbot
